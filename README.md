@@ -1,4 +1,6 @@
 <img width="758" height="401" alt="image" src="https://github.com/user-attachments/assets/a2047306-bf2f-4d71-af00-af742b137ae0" />
+
+
 # 📊 Automated Market & Sentiment Analysis Engine for Reddit
 
 This project automates the process of gathering, analyzing, and summarizing recent posts from Reddit to uncover *emerging market trends*, *customer needs*, and *overall sentiment*. It uses a multi-step AI-powered workflow to transform raw Reddit data into *actionable insights*, which are then neatly organized in a **Google Sheet**.
