@@ -91,10 +91,4 @@ To replicate this workflow:
    * Set target subreddits and keyword filters
    * Link your destination Google Sheet
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and build upon it for personal or commercial use.
-and available under the MIT License.
